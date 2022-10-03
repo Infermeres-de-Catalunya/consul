@@ -18,11 +18,11 @@
 
 $admin-border-color: #d3d9dd;
 $admin-border:   2px solid $admin-border-color;
-$admin-color:    #245b80;
+$admin-color:    #AC1966;
 $admin-text:     #434d54;
 
-$sidebar:        #245b80;
-$sidebar-hover:  #25597c;
+$sidebar:        #AC1966;
+$sidebar-hover:  darken($sidebar, 10%);
 $sidebar-active: #f4fcd0;
 
 $table-border:   $admin-border;

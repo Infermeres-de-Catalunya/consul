@@ -1001,6 +1001,7 @@ footer {
   background-color: $brand;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   color: $white;
 
   @include breakpoint(medium) {
