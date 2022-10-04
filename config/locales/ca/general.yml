@@ -848,6 +848,10 @@ ca:
         debates: Veure tots els debats
         proposals: Veure totes les propostes
         processes: Veure tots els processos
+      no_items:
+        debates: Ara mateix no hi ha debats
+        proposals: Ara mateix no hi ha propostes
+        processes: Ara mateix no hi ha processos oberts
       process_label: procés
       see_process: Veure procés
     cards:
