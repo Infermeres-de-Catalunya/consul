@@ -7,10 +7,10 @@ ca:
       official_level_4_name: Posició oficial 4
       official_level_5_name: Posició oficial 5
     geozones:
-      north_district: Districte nord
-      west_district: Districte Oest
-      east_district: Districte Est
-      central_district: Districte Central
+      north_district: Àmbit territorial nord
+      west_district: Àmbit territorial Oest
+      east_district: Àmbit territorial Est
+      central_district: Àmbit territorial Central
     organizations:
       human_rights: Drets humans
       neighborhood_association: Associació de veïns
@@ -32,10 +32,10 @@ ca:
       environment: Medi ambient
     budgets:
       budget: Pressupost participatiu
-      currency: '€'
+      currency: "€"
       groups:
-        all_city: Tota la ciutat
-        districts: Districtes
+        all_city: Tota Catalunya
+        districts: Àmbit territorial
       statuses:
         studying_project: Estudiar el projecte
         bidding: Licitació

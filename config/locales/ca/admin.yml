@@ -350,8 +350,8 @@ ca:
         index:
           description: "Quan els usuaris creen propostes poden accedir a un quadre de comandament de la seva proposta, on podeu proposar recursos i recomanacions per obtenir suport per a la seva idea."
           create: Crear recurs o acció
-          active: 'Sí'
-          inactive: 'No'
+          active: "Sí"
+          inactive: "No"
           title: Recursos i accions
           action_title: Títol
           action_type: Tipus
@@ -573,7 +573,7 @@ ca:
           notice: Pregunta eliminada correctament
         edit:
           back: Tornar
-          title: "Edita \"%{question_title}\""
+          title: 'Edita "%{question_title}"'
           submit_button: Guardar canvis
         form:
           add_option: + Afegir resposta tancada
@@ -619,7 +619,7 @@ ca:
       proposals: Propostes ciutadanes
       proposals_topics: Temes de propostes
       budgets: Pressupostos participatius
-      geozones: Gestionar districtes
+      geozones: Gestionar àmbit territorial
       hidden_comments: Comentaris ocults
       hidden_debates: Debats ocults
       hidden_proposals: Propostes ocultes
@@ -979,7 +979,7 @@ ca:
         dates: "Fechas"
         start_date: "Fecha de apertura"
         closing_date: "Fecha de cierre"
-        geozone_restricted: "Restringit als districtes"
+        geozone_restricted: "Restringit als àmbit territorial"
       new:
         title: "Nueva votación"
         submit_button: "Crear votación"
@@ -1255,8 +1255,8 @@ ca:
       results_and_stats_reminder: "En marcar aquestes caselles de selecció els resultats i / o estadístiques estaran a la disposició del públic i tots els usuaris els veuran."
     geozones:
       index:
-        title: Districtes
-        create: Crear un districte
+        title: Àmbit territorial
+        create: Crear un àmbit territorial
       geozone:
         name: Nome
         external_code: codi extern
@@ -1267,14 +1267,14 @@ ca:
       edit:
         form:
           submit_button: Guardar canvis
-        editing: S'està editant districte
+        editing: S'està editant àmbit territorial
         back: Tornar
       new:
         back: Tornar
-        creating: crear districte
+        creating: crear àmbit territorial
       delete:
-        success: Districte esborrat correctament
-        error: No es pot esborrar el districte perquè ja té elements associats
+        success: Àmbit territorial esborrat correctament
+        error: No es pot esborrar el àmbit territorial perquè ja té elements associats
     signature_sheets:
       author: Autor
       created_at: Data de creació
@@ -1351,7 +1351,7 @@ ca:
         vote_count: Vots
         participant_count: Participants
         votes_per_heading: Vots per partida
-        participants_per_district: Participants per districte
+        participants_per_district: Participants per àmbit territorial
       budget_supporting:
         title: "Estadístiques de fase de suport"
         headings: Rúbriques

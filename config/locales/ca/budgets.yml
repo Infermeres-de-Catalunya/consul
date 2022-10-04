@@ -153,8 +153,8 @@ ca:
       votes:
         already_supported: "Ja heu donat suport a aquest projecte d'inversió. Comparteix-ho!"
         confirm_group:
-          one: "Només podeu suportar inversions a %{count} districte. Si continueu, no podeu canviar l’elecció del vostre districte. Estàs segur?"
-          other: "Només podeu suportar inversions a %{count} districtes. Si continueu, no podeu canviar l’elecció del vostre districte. Estàs segur?"
+          one: "Només podeu suportar inversions a %{count} àmbit territorial. Si continueu, no podeu canviar l’elecció del vostre àmbit territorial. Estàs segur?"
+          other: "Només podeu suportar inversions a %{count} àmbit territorial. Si continueu, no podeu canviar l’elecció del vostre àmbit territorial. Estàs segur?"
         support: "Avalar"
     investments_list:
       investment:

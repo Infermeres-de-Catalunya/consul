@@ -81,7 +81,7 @@ ca:
         not_to_vote: La persona ha decidit no votar en aquest moment
       show:
         can_vote: pot votar
-        cannot_vote: La persona no pot votar perquè no està registrada al districte(s) on es fa la votació.
+        cannot_vote: La persona no pot votar perquè no està registrada al àmbit territorial(s) on es fa la votació.
         error_already_voted: Ja ha participat en aquesta votació.
         submit: Confirma vot
         success: "¡Vot introduït!"

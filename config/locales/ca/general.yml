@@ -94,10 +94,10 @@ ca:
       recommendations:
         without_results: No hi ha debats relacionats amb els vostres interessos
         without_interests: Seguiu les propostes perquè us puguem fer recomanacions
-        disable: "Les recomanacions dels debats deixaran de mostrar-se si les rebutgeu. Podeu activar-los de nou a la pàgina \"El meu compte\""
+        disable: 'Les recomanacions dels debats deixaran de mostrar-se si les rebutgeu. Podeu activar-los de nou a la pàgina "El meu compte"'
         actions:
           success: "Les recomanacions per als debats ja estan desactivades per a aquest compte"
-          error: "S'ha produït un error. Vés a la pàgina \"El meu compte\" per desactivar manualment les recomanacions dels debats"
+          error: 'S''ha produït un error. Vés a la pàgina "El meu compte" per desactivar manualment les recomanacions dels debats'
       search_form:
         button: Buscar
         placeholder: Cercar debats...
@@ -174,7 +174,7 @@ ca:
     site_customization/content_block: bloc de contingut
     site_customization/page: pàgina
   geozones:
-    none: Tota la ciutat
+    none: Tota Catalunya
   layouts:
     application:
       chrome: Google Chrome
@@ -253,8 +253,8 @@ ca:
       mark_as_unread: Marcar com no llegit
       notifiable_hidden: Aquest recurs ja no està disponible.
   map:
-    title: "Districtes"
-    proposal_for_district: "Crea una proposta per al teu districte"
+    title: "Àmbit territorial"
+    proposal_for_district: "Crea una proposta per al teu àmbit territorial"
     start_proposal: Crea una proposta
   omniauth:
     facebook:
@@ -336,10 +336,10 @@ ca:
       recommendations:
         without_results: No hi ha propostes relacionades amb els vostres interessos
         without_interests: Seguiu les propostes perquè us puguem fer recomanacions
-        disable: "Les recomanacions de les propostes deixaran de mostrar-se si les rebutgeu. Podeu activar-los de nou a la pàgina \"El meu compte\""
+        disable: 'Les recomanacions de les propostes deixaran de mostrar-se si les rebutgeu. Podeu activar-los de nou a la pàgina "El meu compte"'
         actions:
           success: "Les recomanacions per a les propostes estan desactivades per a aquest compte"
-          error: "S'ha produït un error. Vés a la pàgina \"El meu compte\" per desactivar manualment les recomanacions de propostes"
+          error: 'S''ha produït un error. Vés a la pàgina "El meu compte" per desactivar manualment les recomanacions de propostes'
       retired_proposals: Propostes retirades
       retired_proposals_link: "Propostes retirades pels seus autors"
       selected_proposals: Propostes seleccionades
@@ -573,7 +573,7 @@ ca:
         share_in: Comparteix
         hi: "Hola!"
         introduction: Us escric per informar-vos que participo %{org}, la plataforma que podem decidir quina ciutat volem. I per això, vaig crear la meva pròpia proposta ciutadana i ara necessito el vostre suport. Però no us preocupeu perquè és molt senzill.
-        support: "Només heu de fer clic sobre el botó que veuràs a continuació \"Suport aquesta proposta\" i us podeu informar abans de promocionar-la. L’Ajuntament només portarà a terme les propostes que aconsegueixin el màxim suport i he pensat que vosaltres, estic segur que m’ajudeu a aconseguir-ho!"
+        support: 'Només heu de fer clic sobre el botó que veuràs a continuació "Suport aquesta proposta" i us podeu informar abans de promocionar-la. L’Ajuntament només portarà a terme les propostes que aconsegueixin el màxim suport i he pensat que vosaltres, estic segur que m’ajudeu a aconseguir-ho!'
         share: "I si també em feu el gran favor de compartir la meva proposta amb els vostres amics, familiars i contactes, seria perfecte!"
   polls:
     all: "tots"
@@ -587,8 +587,8 @@ ca:
       title: "votacions"
       participate_button: "Participar en aquesta votació"
       participate_button_expired: "Votació terminada"
-      no_geozone_restricted: "Tota la ciutat"
-      geozone_restricted: "Districtes"
+      no_geozone_restricted: "Tota Catalunya"
+      geozone_restricted: "Àmbit territorial"
       geozone_info: "Poden participar las personas empadronades en: "
       already_answer: "Ja has participat en aquesta votació"
       not_logged_in: "Necessites iniciar sessió o registrar-te per a participar"
@@ -718,8 +718,8 @@ ca:
         see_all: "veure tots"
     tags_cloud:
       tags: Tendències
-      districts: "Districtes"
-      districts_list: "Llistat de districtes"
+      districts: "Àmbit territorial"
+      districts_list: "Llistat de àmbit territorial"
       categories: "Categories"
     target_blank: " (l'enllaç s'obre en nova finestra)"
     you_are_in: "Estàs en"
@@ -836,8 +836,8 @@ ca:
       unfeasible: No es poden avalar propostes inviables
       not_voting_allowed: El periode de recollida d'avals esta tancat.
       different_heading_assigned:
-        one: "Només podeu donar suport a projectes d'inversió %{count} districte. Ja heu donat suport a inversions a %{supported_headings}."
-        other: "Només podeu donar suport a projectes d'inversió %{count} districtes. Ja heu donat suport a inversions a %{supported_headings}."
+        one: "Només podeu donar suport a projectes d'inversió %{count} àmbit territorial. Ja heu donat suport a inversions a %{supported_headings}."
+        other: "Només podeu donar suport a projectes d'inversió %{count} àmbit territorial. Ja heu donat suport a inversions a %{supported_headings}."
   welcome:
     feed:
       most_active:

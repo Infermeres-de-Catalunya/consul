@@ -46,8 +46,8 @@ ca:
     org_name_description: "Aquest nom apareixerà a l'assumpte de correu, a les pàgines d'ajuda..."
     related_content_score_threshold: "Llindar de puntuació de contingut relacionat"
     related_content_score_threshold_description: "D’acord amb la qualificació de vots d’un contingut relacionat, s’amaga contingut que els usuaris marquen com a no relacionats"
-    hot_score_period_in_days: "Període (dies) que utilitza el filtre \"més actiu\""
-    hot_score_period_in_days_description: "El filtre \"més actiu\" utilitzat en diverses seccions es basarà en els vots durant els darrers X dies"
+    hot_score_period_in_days: 'Període (dies) que utilitza el filtre "més actiu"'
+    hot_score_period_in_days_description: 'El filtre "més actiu" utilitzat en diverses seccions es basarà en els vots durant els darrers X dies'
     mailer_from_name: "Nom de correu electrònic del remitent"
     mailer_from_name_description: "Aquest nom apareixerà com a nom del remitent als correus electrònics enviats des de l'aplicació"
     mailer_from_address: "Adreça de correu electrònic del remitent"
@@ -152,8 +152,8 @@ ca:
         date_of_birth_description: "En quin camí de la resposta es troba la data de naixement de l'usuari?"
         postal_code: "Camí del codi postal"
         postal_code_description: "En quin camí de la resposta es troba el codi postal de l’usuari?"
-        district: "Camí pel districte"
-        district_description: "En quin camí de la resposta es troba el districte de l’usuari?"
+        district: "Camí pel àmbit territorial"
+        district_description: "En quin camí de la resposta es troba el àmbit territorial de l’usuari?"
         gender: "Camí de gènere"
         gender_description: "En quin camí de resposta hi ha el gènere de l’usuari?"
         name: "Camí del nom"
