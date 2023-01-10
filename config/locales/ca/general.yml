@@ -584,7 +584,7 @@ ca:
       filters:
         current: "obert"
         expired: "Terminades"
-      title: "votacions"
+      title: "Votacions"
       participate_button: "Participar en aquesta votació"
       participate_button_expired: "Votació terminada"
       no_geozone_restricted: "Tota Catalunya"
